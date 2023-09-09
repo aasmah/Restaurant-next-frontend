@@ -1,6 +1,7 @@
 #Next-React Frontend for Restaurants
 Exercise03 is full rendering
-<img src = 'restaurants.png'>
+![frontend rendering](https://github.com/aasmah/Restaurant-with-stripe/assets/35153854/bdf9e4a6-f139-4828-8ca1-0d19419f32d6)
+
 
 ## use yarn and then yarn dev to run the code
 
