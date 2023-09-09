@@ -1,5 +1,4 @@
-#Next-React Frontend for Restaurants
-Exercise03 is full rendering
+#Next-React Frontend for Restaurants is full rendering
 ![frontend rendering](https://github.com/aasmah/Restaurant-with-stripe/assets/35153854/bdf9e4a6-f139-4828-8ca1-0d19419f32d6)
 
 
