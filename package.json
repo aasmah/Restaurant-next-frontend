@@ -24,4 +24,8 @@
   "main": "index.js",
   "author": "jrw@mit.edu",
   "license": "MIT"
-}
+},
+"engines": {
+    "node": "14.17.6",
+    "npm": "9.6.6"
+  }
