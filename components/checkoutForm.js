@@ -6,6 +6,7 @@ import { CardElement, useStripe, useElements } from "@stripe/react-stripe-js";
 import CardSection from "./cardSection";
 import AppContext from "./context";
 import Cookies from "js-cookie";
+import Router from "next/router";
 
 function CheckoutForm() {
   const [data, setData] = useState({
@@ -51,7 +52,8 @@ function CheckoutForm() {
         token: token.token.id,
       }),
     });
-
+    //redirect back to home page for restaurance selection
+    Router.push("/");
     if (!response.ok) {
       setError(response.statusText);
       console.log("SUCCESS")
