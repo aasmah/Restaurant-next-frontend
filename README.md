@@ -1,13 +1,12 @@
-#Next-React Frontend for Restaurants is full rendering
+#Next-React Frontend for Restaurants in full rendering
 ![frontend rendering](https://github.com/aasmah/Restaurant-with-stripe/assets/35153854/bdf9e4a6-f139-4828-8ca1-0d19419f32d6)
 
 
 ## use yarn and then yarn dev to run the code
 
-Do NOT do a yarn build since we are not going to deploy it anywhere
-Exercise03 is full rendering
-index3.js (Data is hardcoded)
-index.js (Get data from Strapi using Apollo and GraphQL)
+Do NOT do a yarn build 
+ (Data is hardcoded)
+ (Get data from Strapi using Apollo and GraphQL)
 restaurantList.js is Web Component to render restaurants
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
