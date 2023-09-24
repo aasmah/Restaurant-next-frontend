@@ -3,6 +3,8 @@ import Cart from "../components/cart"
 import {ApolloProvider,ApolloClient,HttpLink, InMemoryCache} from '@apollo/client';
 import RestaurantList from '../components/restaurantList';
 import { InputGroup, InputGroupAddon,Input} from "reactstrap";
+import { fromImageToUrl, API_URL } from '../utils/urls'
+import { twoDecimals } from '../utils/format'
 
 
 function Home() {
